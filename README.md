@@ -11,7 +11,9 @@
 
 ## Demo Video
 
-[Watch the demo video](./pub%20editor.mp4)
+[![Watch the video](https://img.youtube.com/vi/wieuEqni8dA/maxresdefault.jpg)](https://www.youtube.com/watch?v=wieuEqni8dA)
+
+
 
 
 ## Demo and Timelien
