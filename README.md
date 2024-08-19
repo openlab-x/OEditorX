@@ -8,6 +8,12 @@
 
 **OEditorx** is an open-source project - A user-friendly online editor tailored for HTML, CSS, and JavaScript. This editor is designed to empower you to write and immediately test your front code. It allows you to experiment with various styles, layouts, and interactive elements in real-time, all through an intuitive interface. Whether you are in the process of creating a website, prototyping an application, or simply exploring the potential of these technologies, our editor serves as the ideal tool to bring your creative ideas to fruition.
 
+
+## Demo Video
+
+[Watch the demo video](./pub%20editor.mp4)
+
+
 ## Demo and Timelien
 
 - Here's the demo and live version
