@@ -1,0 +1,5 @@
+/* Hiding elements when loaded inside an iframe */
+html.loaded-in-iframe #emoji,
+html.loaded-in-iframe .run_button {
+  display: none!important;
+}
