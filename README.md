@@ -1,5 +1,5 @@
 
-# OEditorx - Online EditorX 
+# OEditorX - Online EditorX 
 # Version 1.0.0 
 
 ![Project Logo](./static/images/ok.png)
