@@ -27,9 +27,9 @@ https://openlabx.com/projects.php
 
 ## Features
 
-- Feature 1: Supporting HTML, CSS, and JavaScript.
-- Feature 2: Write and immediately test your front code.
-- Feature 3: Safe and modern design.
+- Supporting HTML, CSS, and JavaScript.
+- Write and immediately test your front code.
+- Safe and modern design.
 
 ## Installation
 
