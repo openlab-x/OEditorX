@@ -74,3 +74,13 @@ This project is licensed under the MIT License License. See the [LICENSE](./LICE
 For any questions or support, please contact us via our instagram page https://www.instagram.com/openlabx_official/.
 
 https://openlabx.com
+
+## Follow us
+
+<div align="center">
+| <a href="https://www.instagram.com/openlabx_official/" target="_blank"><strong>Instagram</strong></a> |
+<a href="https://x.com/openlabx" target="_blank"><strong>X (formerly Twitter)</strong></a> |
+<a href="https://www.facebook.com/openlabx/" target="_blank"><strong>Facebook</strong></a> |
+<a href="https://www.youtube.com/@OpenLabX" target="_blank"><strong>YouTube</strong></a> |
+<a href="https://github.com/openlab-x" target="_blank"><strong>GitHub</strong></a> |
+</div>
