@@ -1,8 +1,11 @@
 
 # OEditorX - Online EditorX 
+![GitHub Stats](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=OEditorX&theme=light)
+  - [Made With GitHubViewsCounter](https://github.com/openlab-x/GitHubViewsCounter)
 # Version 1.0.0 
 
 ![Project Logo](./static/images/ok.png)
+
 
 ## Description
 
