@@ -1,5 +1,5 @@
 
-# OEditorX - Online EditorX ![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=OEditorX&theme=dark) [<img alt="Made With GitHubViewsCounter" src="https://openlabx.com/githubviewscounter/api/footer_image.php?theme=light" />](https://github.com/openlab-x/GitHubViewsCounter)
+# OEditorX - Online EditorX 
 # Version 1.0.0 
 
 ![Project Logo](./static/images/ok.png)
